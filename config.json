@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterfalculate",
+        "uuid": 3202352,
+        "checksum": "maavki"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
